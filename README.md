@@ -1,16 +1,15 @@
-### Hi there 👋
+## Who am I?
+I'm Blake Leonard, a web developer, programmer, and script monkey.
+## What can I do?
+I know the following programming/scripting languages:
+> HTML, JavaScript (browser), CSS, Node.JS, Visual Basic .NET, C# (a little bit), Python (3), Dart
 
-<!--
-**bleonard252/bleonard252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I know how to use the following frameworks:
+> React (JS and I guess TS), Flutter (Dart), Material Design Lite (HTML/CSS)
 
-Here are some ideas to get you started:
+## What do I do?
+Currently I work on [DahliaOS][dahlia-os]. Some of my projects can be found below,
+while others, such as Tesseract, can be found on [GitLab][personal-gitlab].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[dahlia-os]: https://github.com/dahlia-os/
+[personal-gitlab]: https://gitlab.com/bleonard252/
