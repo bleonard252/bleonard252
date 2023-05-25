@@ -17,5 +17,5 @@ I know how to use the following frameworks:
 Currently I work on [DahliaOS][dahlia-os]. Some of my projects can be found below,
 while others, such as Tesseract, can be found on [GitLab][personal-gitlab].
 
-[dahlia-os]: https://github.com/dahlia-os/
+[dahlia-os]: https://github.com/dahliaOS
 [personal-gitlab]: https://gitlab.com/bleonard252/
